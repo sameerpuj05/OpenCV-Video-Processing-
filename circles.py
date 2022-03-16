@@ -1,5 +1,5 @@
 # Code to Measure time taken by program to execute.
-from asyncio.windows_events import NULL
+# from asyncio.windows_events import NULL
 import time
 
 # import the opencv library and numpy library
